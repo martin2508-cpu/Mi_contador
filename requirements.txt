@@ -1,1 +1,8 @@
+Dependencias del proyecto
+Proyecto: Contador Interactivo
+Lenguaje: Python
+Framework: Flet
+
+
+Framework para la interfaz gráfica
 flet==1.1.0
