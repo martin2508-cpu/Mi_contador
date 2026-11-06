@@ -116,17 +116,15 @@ python main.py
 
 ```text
 Mi_contador/
-│
 ├── main.py
 ├── README.md
 ├── requirements.txt
 ├── evidencia/
 │   ├── captura1.png
 │   └── captura2.png
-│
-└── .venv/  (entorno local, no incluido en GitHub)
-```
+└── .venv/ (entorno local, no incluido en GitHub)
 
+```
 ## 11. Evidencias de ejecución
 
 El repositorio incluye capturas de pantalla que documentan la interfaz gráfica y el funcionamiento de los eventos de incremento y reinicio.
